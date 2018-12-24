@@ -4,10 +4,7 @@ Molecular Classification of Cancer by Gene Expression Monitoring-A Kaggle Challe
 **About**
 
 ```
-This repository contains Training Data and Testing Data for Binary Classification of Cancer into
-AML(Acute myeloid Leukemia) and ALL(Acute Lymphoblastic Leukemia). These datasets contain measurements
-corresponding to ALL and AML samples from Bone Marrow and Peripheral Blood. Intensity values have been
-re-scaled such that overall intensities for each chip are equivalent.
+This repository contains Training Data and Testing Data for Binary Classification of Cancer into AML(Acute myeloid Leukemia) and \ ALL(Acute Lymphoblastic Leukemia). These datasets contain measurementscorresponding to ALL and AML samples from Bone Marrow and \ Peripheral Blood. Intensity values have been re-scaled such that overall intensities for each chip are equivalent. \
 
 ```
 
