@@ -3,7 +3,12 @@ Molecular Classification of Cancer by Gene Expression Monitoring-A Kaggle Challe
 
 **About**
 ```
-This repository contains Training Data and Testing Data for Binary Classification of Cancer into AML(Acute myeloid Leukemia) and ALL(Acute Lymphoblastic Leukemia). These datasets contain measurements corresponding to ALL and AML samples from Bone Marrow and Peripheral Blood. Intensity values have been re-scaled such that overall intensities for each chip are equivalent.
+This repository contains Training Data and Testing Data for Binary Classification
+of Cancer into AML(Acute myeloid Leukemia) and ALL(Acute Lymphoblastic Leukemia). 
+These datasets contain measurements corresponding to ALL and AML samples from 
+Bone Marrow and Peripheral Blood. Intensity values have been re-scaled such 
+that overall intensities for each chip are equivalent.
+
 ```
 **Technicalities**
 ```
@@ -25,4 +30,5 @@ Pandas
 
 3) Save the variable 'x' as L2.sol.npy using 'np.save' command
 4) Run the testData.py file which loads the test data and uses the optimal solution to compute the accuracy
+
 ```
