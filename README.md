@@ -22,7 +22,7 @@ in predicting the correct class. In this project, the issue of feature or variab
 a regularizer to the objective function to select the features that contribute most to the class prediction. To this end, different  
 regularization methods such as Lasso, Ridge and ElasticNethas been implemented on this data set and the codes are programmed in  
 python. No python built-in modules such as sciklearn for SVM has been used. The outcomes of the programs are compared with python  
-built-in module for linear SVM classification. 
+built-in module for linear SVM classification.This dataset has been taken from kaggle.
 
 ```
 **Libraries required**
